@@ -208,7 +208,7 @@ public class DoubleLinkedList<T> {
         node.add(3,"very");
         node.add(3,"very");
         node.add(6,"and");
-        node.add(7," ÎéÖÛ");
+        node.add(7," ÍşÃÍÏÈÉú");
         node.add(8,"´ó");
         node.add(9,"Ë§±Æ");
         node.print();
